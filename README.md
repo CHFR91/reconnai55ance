@@ -1,11 +1,15 @@
 # reconnai55ance
-Script bash pour effectuer la reconnaissance d'un domaine
-C'est aussi et surtout l'occasion d'apprendre à faire un script en bash
+Script bash pour effectuer la reconnaissance d'un domaine.<br>
+C'est aussi et surtout l'occasion d'apprendre à faire un script en bash<br>
 
-# mises à jour :
-25 novembre 2023
-version 0.03 : mise en place des options lors de l'exécution du script
+<h2># mises à jour :</h2>
+<strong>25 novembre 2023 :</strong>
+<ul>
+  <li>version 0.03 : mise en place des options lors de l'exécution du script</li>
+</ul>
 
-# programmes nécessaires :
-https://github.com/sensepost/gowitness
-https://github.com/busyloop/lolcat
+<h2># programmes nécessaires :</h2>
+<ul>
+  <li>https://github.com/sensepost/gowitness</li>
+  <li>https://github.com/busyloop/lolcat</li>
+</ul>
